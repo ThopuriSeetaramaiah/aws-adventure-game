@@ -1,0 +1,78 @@
+    █████╗ ██╗    ██╗███████╗     █████╗ ██████╗ ██╗   ██╗███████╗███╗   ██╗████████╗██╗   ██╗██████╗ ███████╗
+   ██╔══██╗██║    ██║██╔════╝    ██╔══██╗██╔══██╗██║   ██║██╔════╝████╗  ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝
+   ███████║██║ █╗ ██║███████╗    ███████║██║  ██║██║   ██║█████╗  ██╔██╗ ██║   ██║   ██║   ██║██████╔╝█████╗  
+   ██╔══██║██║███╗██║╚════██║    ██╔══██║██║  ██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║   ██║   ██║   ██║██╔══██╗██╔══╝  
+   ██║  ██║╚███╔███╔╝███████║    ██║  ██║██████╔╝ ╚████╔╝ ███████╗██║ ╚████║   ██║   ╚██████╔╝██║  ██║███████╗
+   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝    ╚═╝  ╚═╝╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
+        
+
+Welcome to the AWS Adventure Game!
+In this game, you'll navigate the AWS Cloud, learn new skills,
+and face challenges to become an AWS expert.
+
+Enter your name: John
+
+Welcome, John! Your AWS adventure begins now...
+
+
+=== AWS Cloud Academy ===
+The starting point of your AWS adventure. Here you can learn the basics of AWS services.
+
+What would you like to do?
+1. Take the EC2 course
+2. Learn about S3
+3. Study networking
+4. Check your status
+
+Enter your choice (1-4): 1
+
+Your compute skill increased to 2!
+
+
+=== EC2 Laboratory ===
+You're in a virtual lab environment learning about EC2 instances. The terminal shows various instance types.
+
+What would you like to do?
+1. Launch a t2.micro instance
+2. Configure security groups
+3. Return to Cloud Academy
+4. Check your status
+
+Enter your choice (1-4): 1
+
+You successfully launched an EC2 instance!
+The instance is now running and accessible.
+Added EC2 Instance Key to your inventory!
+You gained 10 points! Score: 10
+Your compute skill increased to 3!
+
+Press Enter to continue...
+
+
+=== Serverless Workshop ===
+A futuristic room with floating code snippets and event-driven architectures visualized in 3D.
+
+What would you like to do?
+1. Create a Lambda function
+2. Set up API Gateway
+3. Return to Cloud Academy
+4. Check your status
+
+Enter your choice (1-4): 4
+
+=== John's Status ===
+Health: 100/100
+Score: 10
+Location: lambda_workshop
+
+Skills:
+  Compute: 3
+  Storage: 1
+  Networking: 1
+  Security: 1
+  Serverless: 1
+
+Inventory:
+  - EC2 Instance Key
+
+Press Enter to continue...
